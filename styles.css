@@ -1,0 +1,30 @@
+body{
+
+background-color: lightpink;}
+h1 {
+
+color: hotpink;}
+
+a{
+    color: palevioletred;
+    background-color: lightpink;
+    font-weight: bold;
+}
+
+img {
+    width: 140px;
+}
+
+h2 {
+    color: hotpink;
+}
+
+img {
+    border-radius: 8px;
+}
+
+h1 {
+    text-shadow: 0 0 3px #FF0000;
+}
+
+
