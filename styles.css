@@ -5,11 +5,6 @@ h1 {
 
 color: hotpink;}
 
-a{
-    color: palevioletred;
-    background-color: lightpink;
-    font-weight: bold;
-}
 
 img {
     width: 140px;
@@ -27,4 +22,7 @@ h1 {
     text-shadow: 0 0 3px #FF0000;
 }
 
+body {
+    text-align: center;
+}
 
